@@ -1,4 +1,5 @@
 ### Hi there 👋 Kedileri severim
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=ChizyE&count_private=true&show_icons=true&theme=dark&hide_border=true&include_all_commits=true">
 ![](https://komarev.com/ghpvc/?username=ChizyE)
 <!--
 **ChizyE/ChizyE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
